@@ -1,0 +1,11 @@
+body {
+	font-family: arial;
+	width: 65%;
+}
+header {
+	width: 35%;
+	height: 30%;
+}
+#sonnet, #sonnet1 {
+	font-family: Tahoma;
+}
